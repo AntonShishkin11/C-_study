@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\bin\Debug\Шишкин.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\bin\Debug\Шишкин.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\bin\Debug\Шишкин.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\obj\Debug\Lab_4(V14).csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\obj\Debug\Lab_4(V14).csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\obj\Debug\Шишкин.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Шишкин\obj\Debug\Шишкин.pdb

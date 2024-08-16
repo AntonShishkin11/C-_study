@@ -1,0 +1,6 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\bin\Debug\String_searcher.dll
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\bin\Debug\String_searcher.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\obj\Debug\String_searcher.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\obj\Debug\String_searcher.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\obj\Debug\String_searcher.dll
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Lab10\String_searcher\obj\Debug\String_searcher.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\bin\Debug\FileParser.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\bin\Debug\FileParser.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\bin\Debug\FileParser.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\obj\Debug\FileParser.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\obj\Debug\FileParser.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FileParser\FileParser\obj\Debug\FileParser.pdb

@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\obj\Debug\Lab4.2.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\Lab4.2\obj\Debug\Lab4.2.pdb

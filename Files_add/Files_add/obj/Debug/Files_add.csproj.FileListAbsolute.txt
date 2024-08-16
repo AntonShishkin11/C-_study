@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\bin\Debug\Files_add.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\bin\Debug\Files_add.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\bin\Debug\Files_add.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\obj\Debug\Files_add.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\obj\Debug\Files_add.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\obj\Debug\Files_add.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Files_add\Files_add\obj\Debug\Files_add.pdb

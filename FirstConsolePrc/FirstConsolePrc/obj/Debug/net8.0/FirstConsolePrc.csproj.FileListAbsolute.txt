@@ -1,0 +1,14 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\bin\Debug\net8.0\FirstConsolePrc.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\bin\Debug\net8.0\FirstConsolePrc.deps.json
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\bin\Debug\net8.0\FirstConsolePrc.runtimeconfig.json
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\bin\Debug\net8.0\FirstConsolePrc.dll
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\bin\Debug\net8.0\FirstConsolePrc.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.AssemblyInfoInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.AssemblyInfo.cs
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.dll
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\refint\FirstConsolePrc.dll
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\FirstConsolePrc.genruntimeconfig.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\FirstConsolePrc\FirstConsolePrc\obj\Debug\net8.0\ref\FirstConsolePrc.dll

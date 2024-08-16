@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\obj\Debug\ULearn.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\obj\Debug\ULearn.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\bin\Debug\ULearn.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\bin\Debug\ULearn.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\bin\Debug\ULearn.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\obj\Debug\ULearn.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\ULearn\ULearn\obj\Debug\ULearn.pdb

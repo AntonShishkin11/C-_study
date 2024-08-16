@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\obj\Debug\C#_Study.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\obj\Debug\C#_Study.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\bin\Debug\C#_Study.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\bin\Debug\C#_Study.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\bin\Debug\C#_Study.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\obj\Debug\C#_Study.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\C#_Study\C#_Study\obj\Debug\C#_Study.pdb

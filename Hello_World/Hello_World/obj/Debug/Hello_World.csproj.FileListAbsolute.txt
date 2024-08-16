@@ -1,0 +1,7 @@
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\Anton\OneDrive\Рабочий стол\Prog_practice\VS_c#\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
